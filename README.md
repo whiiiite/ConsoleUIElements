@@ -483,7 +483,7 @@ graphics.PutPixel(2, 6, ConsoleColor.Red);
 ```
 
 It can be looks too long. But here just too much separators by carriage return. As you can see we call methods for drawing lines, squares, rectangle, pixels. Also it can draw circles and everything that exists in drawing.  
-Note: we can draw line just by symbol like 0x2588(square char). But also we can draw it by string primirive that you can set as you want for draw it.
+Note: we can draw line just by symbol like 0x2588(square char). But also we can draw it by string primitive that you can set as you want for draw it.
 
 
 # The end.
