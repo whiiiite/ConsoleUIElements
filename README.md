@@ -250,7 +250,7 @@ Output:
 ```
 
 As you can see we have been created ```ConsoleUnorderedList``` and filled it with ```ConsoleListItem``` items. We did it in different ways. You can create separate instances of list item and also you can just pass just string to ```Add()``` method. You can do it just because ```ConsoleListItem``` have implicit operator from string to instance.  
-Also you can use different method for work with that container. Meethods like ```Add(), Insert(), Clear()``` and etc.
+Also you can use different methods for work with that container. Methods like ```Add(), Insert(), Clear()``` and etc.
 
 ```C#
 public static implicit operator ConsoleListItem(string text)
